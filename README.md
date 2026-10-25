@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hector Fuentes
 
-<!--
-**HectorFuentes/HectorFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Orlando, FL · Python data automation · public-data pipelines
 
-Here are some ideas to get you started:
+I build small, reliable tools that turn messy public data into clean, usable reports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+- Python scripts and integrations: Socrata/open-data APIs, CSV/Excel, REST APIs
+- Data pipelines: fetch → validate → dedupe → report, with tests and clear failure modes
+- Scheduled jobs (systemd timers, containers) that fail loudly instead of silently
+
+**How I work on bounties and issues**
+- Read the contributing guide and follow the repo's style and AI-use policy
+- Small, focused PRs with tests and a clear description of what changed and why
+- Reproduce first, then fix; I respond to review comments quickly
+- AI-assisted workflow, human-accountable results
+
+**Contact:** info@colomhome.com
